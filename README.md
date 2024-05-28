@@ -1,11 +1,10 @@
 # About
 
-This is Yoake-Sablin, an agender cyberneticist. Foucising on control theory, computer graphics, physics-based rendering and GPU programming. Also interested in information geometry and optimal transport though just a newbie. 
+This is Yoake-Sablin, an agender cyberneticist. Focusing on control theory, computer graphics, physics-based rendering and GPU programming. Also interested in information geometry and optimal transport though just a newbie. 
 
-Fluent in 🇨🇳 汉语; 🇺🇸 English; ☭ Русский. Always open for friendly discussions :)
+Fluent in 🇨🇳 汉语; 🇺🇸 English; ☭🇷🇺 Русский. Always open for friendly discussions :)
 
-- Blog post: https://www.sablin.top
-- Personal Page: https://www.sablin.top/bio
+- Blog: https://www.sablin.top
 
 ## Tech Stack
 

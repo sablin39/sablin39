@@ -15,9 +15,9 @@ Fluent in 🇨🇳 汉语; 🇺🇸 English; 🇷🇺 Русский. Always ope
 * GPU: ![CUDA](https://img.shields.io/badge/CUDA-%2300599C.svg?logo=nvidia&logoColor=green)
 ## Familiar Tools
 
+* ![PyTorch](https://img.shields.io/badge/-PyTorch-grey?style=flat-square&logo=PyTorch)
 * ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-  ![PyTorch](https://img.shields.io/badge/-PyTorch-grey?style=flat-square&logo=PyTorch)
-* ![MATLAB](https://img.shields.io/badge/-MATLAB-blue?style=flat-square&logo=Matrix)
+![MATLAB](https://img.shields.io/badge/-MATLAB-blue?style=flat-square&logo=Matrix)
 ![AD](https://img.shields.io/badge/-Altium%20Designer-24292E?style=flat-square&logo=Altium%20Designer)
 ![KiCAD](https://img.shields.io/badge/-KiCad-6C0101?style=flat-square&logo=KiCad)
 

@@ -4,7 +4,7 @@ This is Yoake-Sablin, an agender cyberneticist. Currently focusing on control th
 
 Fluent in 🇨🇳 汉语; 🇺🇸 English; 🇷🇺 Русский. Always open for friendly discussions :)
 
-- Blog: https://blog.okbsablin.su
+- Blog: https://sablin39.github.io
 
 ## Tech Stack
 

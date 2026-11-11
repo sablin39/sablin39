@@ -16,13 +16,12 @@ Fluent in 🇨🇳 汉语; 🇺🇸 English; 🇷🇺 Русский. Always ope
 ## Familiar Tools
 
 * ![PyTorch](https://img.shields.io/badge/-PyTorch-grey?style=flat-square&logo=PyTorch)
-* ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![MATLAB](https://img.shields.io/badge/-MATLAB-blue?style=flat-square&logo=Matrix)
-![AD](https://img.shields.io/badge/-Altium%20Designer-24292E?style=flat-square&logo=Altium%20Designer)
+~~![MATLAB](https://img.shields.io/badge/-MATLAB-blue?style=flat-square&logo=Matrix)~~
+~~![AD](https://img.shields.io/badge/-Altium%20Designer-24292E?style=flat-square&logo=Altium%20Designer)~~
 ![KiCAD](https://img.shields.io/badge/-KiCad-6C0101?style=flat-square&logo=KiCad)
 
 
-* ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=STMicroelectronics) 
+* ~~![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=STMicroelectronics)~~
 ![ESP32](https://img.shields.io/badge/-ESP32-282423?style=flat-square&logo=Espressif)
 ![Xilinx](https://img.shields.io/badge/-Xilinx-E01F27?style=flat-square&logo=amd)
 
